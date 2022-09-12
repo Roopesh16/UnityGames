@@ -13,8 +13,8 @@
  - **Intro Page**
 ![Intro Page](https://github.com/Roopesh16/UnityGames/blob/main/Haunted%20Zombie%20Rush/Pics/intro.png)
 
--Main Game
+- **Main Game**
 ![Main Game](https://github.com/Roopesh16/UnityGames/blob/main/Haunted%20Zombie%20Rush/Pics/Game.png)
 
--Exit Page 
+- **Exit Page** 
 ![Exit Page](https://github.com/Roopesh16/UnityGames/blob/main/Haunted%20Zombie%20Rush/Pics/Exit.png)
