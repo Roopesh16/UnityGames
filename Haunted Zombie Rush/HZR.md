@@ -4,7 +4,7 @@
  - Once Installed, Run the Game and Play
  - Close the window and reopen to restart the game
  - ## Screenshots
- ![Intro Page](https://postimg.cc/JDkTLy9V)
+ ![Intro Page](D:\Documents\Unity\Haunted Zombie Rush\Pics\intro.png)
  ![Main Game](https://postimg.cc/2VcXnfdt)
  ![Exit Page](https://postimg.cc/zyHpWHGL)
  
