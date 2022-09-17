@@ -10,3 +10,12 @@
 
 
 ## Screenshots
+- Opening
+
+![Opening](https://github.com/Roopesh16/UnityGames/blob/main/Legends%20Of%20Gondor/Pics/Opening.png)
+
+- Gameplay
+![Gameplay](https://github.com/Roopesh16/UnityGames/blob/main/Legends%20Of%20Gondor/Pics/Gameplay.png)
+
+-Defeat
+![Defeat](https://github.com/Roopesh16/UnityGames/blob/main/Legends%20Of%20Gondor/Pics/Defeat.png)
