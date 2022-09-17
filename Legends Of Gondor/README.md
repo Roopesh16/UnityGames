@@ -1,5 +1,5 @@
 # Legends Of Gondor
--  Download **Legends Of Gondor x84.exe** on your Windows PC
+-  Download **Legends Of Gondor x64.exe** on your Windows PC
 - Run the Game and Play
 
 ## Rules
