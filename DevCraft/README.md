@@ -6,7 +6,7 @@
 
 ## Rules
 - Use WASD keys to move around
-- Click *Jump* button to jump, *Punch* button to destroy blocks and *Build* button to add blocks.
+- Click **Jump** button to jump, **Punch** button to destroy blocks and **Build** button to add blocks.
 - Jump and Move around and traverse through the map
 
 ## Screenshots
