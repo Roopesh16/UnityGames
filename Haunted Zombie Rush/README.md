@@ -3,6 +3,7 @@
  - Download **HZR Setup x84.exe** file on your Windows PC
  - Once Installed, Run the Game and Play
  - Close the window and reopen to restart the game
+ - Download ** Haunted Zombie Rush.apk** file to run on Android Devices
 
 ## Rules
 - Click on the screen to dodge zombie from moving rocks. 
